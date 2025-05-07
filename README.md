@@ -1,6 +1,6 @@
 # MOE Engine
 
-混合专家(MoE)模型的高性能推理框架，支持多GPU并行计算。
+混合专家(MoE)模型的高性能推理框架，项目仍在构建中。
 
 ## 功能特性
 - 支持专家并行(Expert Parallelism) 
@@ -44,12 +44,6 @@ int main() {
 ├── examples/          # 示例代码
 └── build/             # 构建目录
 ```
-
-## 贡献指南
-欢迎提交Pull Request，请确保：
-1. 通过所有单元测试
-2. 遵循现有代码风格
-3. 更新相关文档
 
 ## 许可证
 Apache License 2.0
