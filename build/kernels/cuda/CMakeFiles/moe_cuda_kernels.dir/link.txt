@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmoe_cuda_kernels.a CMakeFiles/moe_cuda_kernels.dir/matmul.cu.o CMakeFiles/moe_cuda_kernels.dir/rms_norm.cu.o CMakeFiles/moe_cuda_kernels.dir/swiglu.cu.o CMakeFiles/moe_cuda_kernels.dir/attention.cu.o CMakeFiles/moe_cuda_kernels.dir/rope.cu.o CMakeFiles/moe_cuda_kernels.dir/gating.cu.o
+/usr/bin/ranlib libmoe_cuda_kernels.a

@@ -1,0 +1,1 @@
+-I"/usr/local/cuda/targets/x86_64-linux/include" -I/mnt/e/Projects/MOE_Engine/kernels/cuda -isystem /usr/local/cuda/include

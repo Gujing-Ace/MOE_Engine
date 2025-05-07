@@ -1,0 +1,32 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#efa395",
+        "activityBar.background": "#efa395",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#158a27",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#15202b99",
+        "editorGroup.border": "#efa395",
+        "panel.border": "#efa395",
+        "sideBar.border": "#efa395",
+        "statusBar.background": "#e87c69",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#e1553d",
+        "statusBarItem.remoteBackground": "#e87c69",
+        "statusBarItem.remoteForeground": "#15202b",
+        "tab.activeBorder": "#efa395",
+        "titleBar.activeBackground": "#e87c69",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#e87c6999",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.remoteColor": "#e87c69",
+    "files.associations": {
+        "*.py": "python",
+        "*.tex": "latex",
+        "*.cpp": "cpp",
+        "stdexcept": "cpp",
+        "numeric": "cpp"
+    }
+}

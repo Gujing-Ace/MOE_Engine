@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmoe_core.a CMakeFiles/moe_core.dir/init.cpp.o
+/usr/bin/ranlib libmoe_core.a

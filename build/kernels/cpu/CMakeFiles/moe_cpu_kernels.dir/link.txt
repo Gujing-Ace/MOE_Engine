@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmoe_cpu_kernels.a CMakeFiles/moe_cpu_kernels.dir/cpu_utils.cpp.o CMakeFiles/moe_cpu_kernels.dir/matmul.cpp.o CMakeFiles/moe_cpu_kernels.dir/rms_norm.cpp.o
+/usr/bin/ranlib libmoe_cpu_kernels.a
